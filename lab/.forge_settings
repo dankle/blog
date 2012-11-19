@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<rootpath>"/rest"</rootpath>
+<rest>
+<applicationclass>
+<package>rest</package>
+<name>/Users/danielkleveros/Documents/oredev/lab/src/main/java/rest/RestApplication.java</name>
+</applicationclass>
+</rest>
+</configuration>
